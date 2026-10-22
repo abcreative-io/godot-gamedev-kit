@@ -1,0 +1,6 @@
+{
+  "name": "godot-gamedev-kit",
+  "version": "0.1.0",
+  "description": "Godot 4 game-dev stack for Claude Code: bootstrap a repo, a hard commit gate, frame-rate QA, character visual QA.",
+  "author": { "name": "Abe Bumpus" }
+}

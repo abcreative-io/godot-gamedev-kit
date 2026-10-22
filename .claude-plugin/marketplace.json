@@ -1,0 +1,7 @@
+{
+  "name": "godot-gamedev-kit",
+  "owner": { "name": "Abe Bumpus" },
+  "plugins": [
+    { "name": "godot-gamedev-kit", "source": "./", "description": "Godot 4 game-dev stack: stack setup, commit gate, frame-rate QA, character visual QA." }
+  ]
+}
